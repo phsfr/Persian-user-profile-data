@@ -2,7 +2,6 @@
 ## 🗂️ Dataset Description
 
 This is a **Persian dataset** containing **6,652 utterances** collected from different input sources, as shown in the table below.
-### Table 1: Five main input sources of data collected in the research of Safari and Shamsfard (2024)
 
 | Type                    | Resource                                                                                   | Dialogue No. | Utterance No. |
 |-------------------------|--------------------------------------------------------------------------------------------|--------------|----------------|
